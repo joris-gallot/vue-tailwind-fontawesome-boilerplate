@@ -1,0 +1,7 @@
+{
+  "css.validate": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false
+  },
+  "editor.formatOnSave": true
+}
