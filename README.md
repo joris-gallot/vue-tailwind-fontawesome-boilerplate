@@ -1,4 +1,4 @@
-# facebook-clone-ui-web
+# vue tailwind fontawesome boilerplate
 
 ## Project setup
 ```
